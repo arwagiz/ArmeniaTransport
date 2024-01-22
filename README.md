@@ -42,8 +42,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
-- Yerevan Green City Action Plan, EBRD, 2017: https://www.ebrdgreencities.com/assets/Uploads/PDF/Yerevan-GCAP.pdf
-- Project Preparation Study for the Yerevan Sustainable Urban Transport Implementation Project, CDIA, July 2022: https://cdia.asia/wp-content/uploads/2023/03/ARM_YerevanSUTIPFinalReportJuly2022-.pdf
+- Yerevan: Yerevan Green City Action Plan, EBRD, 2017: https://www.ebrdgreencities.com/assets/Uploads/PDF/Yerevan-GCAP.pdf
+- Yerevan: Project Preparation Study for the Yerevan Sustainable Urban Transport Implementation Project, CDIA, July 2022: https://cdia.asia/wp-content/uploads/2023/03/ARM_YerevanSUTIPFinalReportJuly2022-.pdf
 - Gyumri: Green City Action Plan for City of Gyumri, EBRD, 2019: https://ebrdgreencities.com/assets/Uploads/PDF/Gyumri-GCAP_Eng.pdf
 
 
