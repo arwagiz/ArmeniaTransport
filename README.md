@@ -28,8 +28,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
-- Armenia First NDC (Updated submission), 2021: https://unfccc.int/sites/default/files/NDC/2022-06/NDC%20of%20Republic%20of%20Armenia%20%202021-2030.pdf
-    - "Transport Strategy: increased efficiency of public transport, use of renewable energy, stimulation and support in uptake of electric vehicles" 
+- Armenia First NDC (Updated submission), 2021: https://unfccc.int/sites/default/files/NDC/2022-06/NDC%20of%20Republic%20of%20Armenia%20%202021-2030.pdf ("Transport Strategy: increased efficiency of public transport, use of renewable energy, stimulation and support in uptake of electric vehicles") 
 
 
 ### EU accession <a name="eu-accession"></a> 
