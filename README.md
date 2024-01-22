@@ -42,7 +42,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
-- 
+- Yerevan Green City Action Plan, EBRD, 2017: https://www.ebrdgreencities.com/assets/Uploads/PDF/Yerevan-GCAP.pdf
+- Gyumri: Green City Action Plan for City of Gyumri, EBRD, 2019: https://ebrdgreencities.com/assets/Uploads/PDF/Gyumri-GCAP_Eng.pdf
+
 
 ### Studies and research papers <a name="studies-research"></a> 
 
